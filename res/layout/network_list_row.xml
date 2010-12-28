@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/network" 
+	android:gravity="left|center" 
+	android:layout_height="wrap_content" 
+	android:layout_width="fill_parent" 
+	android:orientation="vertical"
+	android:paddingBottom="5px" 
+	android:paddingTop="5px" 
+	android:paddingLeft="5px">
+<TextView 
+	android:id="@+id/txtSSID" 
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content" 
+	android:text="@string/ssid_msg">
+</TextView>
+<TextView 
+	android:id="@+id/txtBSSID" 
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content">
+</TextView>
+<TextView 
+	android:id="@+id/txtCapabilities" 
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content">
+</TextView>
+<TextView 
+	android:id="@+id/txtFrecuency" 
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content">
+</TextView>
+<TextView 
+	android:id="@+id/txtLevel" 
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content">
+</TextView>
+</LinearLayout>

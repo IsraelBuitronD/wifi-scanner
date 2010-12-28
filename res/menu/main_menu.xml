@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="@string/about" android:orderInCategory="1000" android:id="@+id/mnuAbout"></item>
+<item android:title="@string/rescan" android:orderInCategory="10" android:id="@+id/mnuRescan"></item>
+</menu>

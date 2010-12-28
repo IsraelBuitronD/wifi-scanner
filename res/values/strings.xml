@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wifi Scanner</string>
+    <string name="about">About</string>
+    <string name="rescan">Rescan</string>
+    <string name="ok">Ok</string>
+
+    <string name="close">Close</string>
+    <string name="send_me_bugs_msg">If you find some error, or you have comments or
+        suggestions, please send me an email.</string>
+    <string name="homepage_msg">Homepage:
+        http://github.com/neoriddle/wifi-scanner</string>
+    <string name="version_msg">Version %s</string>
+    <string name="description_project_msg">Wifi Scanner is a simple project, intents to be
+        a simple wifi-networks scanner.\nBut this project is in
+        progress, so if you have ideas to make grow up, we can include
+        them.</string>
+    <string name="email_msg">Email: israel.buitron@gmail.com</string>
+    <string name="credits_msg">Credits:\nProject Leader: Israel Buitron
+    </string>
+
+    <string name="ssid_msg">SSID: %s</string>
+    <string name="bssid_msg">BSSID: %s</string>
+    <string name="capabilities_msg">Capabilities: %s</string>
+    <string name="frecuency_msg">Frecuency: %s MHz</string>
+    <string name="signal_level_msg">Signal Level: %s dBm</string>
+
+    <string name="wifi_is_not_enabled_msg">WiFi is not enabled</string>
+    <string name="wifi_disabling_msg">WiFi is currently being disabling</string>
+    <string name="wifi_disabled_msg">WiFi is disabled</string>
+    <string name="wifi_enabling_msg">WiFi is currently being enabling</string>
+    <string name="wifi_enabled_msg">WiFi is enabled</string>
+    <string name="wifi_unknown_state_msg">WiFi is in an unknown state</string>
+    <string name="networks_found_msg">%d networks found</string>
+
+</resources>
